@@ -1,7 +1,7 @@
 package main
 
-import "io"
 import (
+	"io"
 	"log"
 	"net/http"
 	"os"
